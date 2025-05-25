@@ -1,1 +1,1 @@
-<template><h1>Home Page</h1></template>
+<template><h1>Home rumah</h1></template>
