@@ -1,0 +1,1 @@
+<template><h2>Laporan Peminjaman</h2></template>

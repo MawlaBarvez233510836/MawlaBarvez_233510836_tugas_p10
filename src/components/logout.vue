@@ -1,0 +1,1 @@
+<template><h1>Logout berhasil</h1></template>
